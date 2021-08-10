@@ -1,5 +1,3 @@
-# employee-management
-
 ## Project setup
 ```
 npm install
