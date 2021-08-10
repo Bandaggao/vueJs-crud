@@ -18,7 +18,7 @@
               </b-button>
             </div>
             <div v-else class="col-md-6 pl-0">
-              <b-button variant="outline-success"
+              <b-button variant="outline-danger"
               block
               type="submit"
               >Delete</b-button>

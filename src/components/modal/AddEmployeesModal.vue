@@ -40,7 +40,7 @@
               <div
                 v-if="submitted && !$v.employee.mobile.required"
                 class="invalid-feedback"
-              >Name is required</div>
+              >Mobile number is required</div>
               <div
                 v-if="submitted && !$v.employee.name.alpha"
                 class="invalid-feedback"
