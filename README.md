@@ -1,4 +1,4 @@
-# crud
+# employee-management
 
 ## Project setup
 ```
